@@ -1,0 +1,12 @@
+Source: suid-wrap
+Section: admin
+Priority: optional
+Maintainer: Abraham vd Merwe <abz@blio.net>
+Standards-Version: 3.0.1
+
+Package: suid-wrap
+Architecture: any
+Depends: ${shlibs:Depends}
+Description: a suid wrapper for scripts
+ suid-wrap is a suid wrapper for scripts. All you have to
+ do is to run suid-wrap with your script as parameter.

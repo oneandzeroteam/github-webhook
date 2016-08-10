@@ -1,0 +1,9 @@
+suid-wrap (0.01a) stable; urgency=low
+
+  * This is the first official release
+
+ -- Abraham vd Merwe <abz@blio.net>  Thu, 22 Nov 2000 17:12:26 +0200
+
+Local variables:
+mode: debian-changelog
+End:

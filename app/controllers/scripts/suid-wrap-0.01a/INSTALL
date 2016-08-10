@@ -1,0 +1,23 @@
+
+First of all, my sincere apologies for not using autoconf. I'll start using
+autoconf soon, but I just don't get around to playing with it.
+
+Here is the quick installation guide:
+
+1. Edit Makefile (see instructions in Makefile for more information).
+   If you're not satisfied with the default paths, etc. you may also need
+   to edit man/Makefile and src/Makefile.
+
+2. Type make (in this directory). If you're lucky everything should should end
+   up with a binary called suid-wrap.
+
+3. Type make install. If you want to uninstall the files, just type
+   make uninstall
+
+That should be it for most people. If you have any trouble installing,
+please feel free to ask me. If you just want to check out suid-wrap, before
+actually installing anything, just type cd src && make. Run suid-wrap.
+
+NOTE: If make complains that you don't have colorgcc, just search for
+ colorgcc in src/Makefile and change it to gcc
+

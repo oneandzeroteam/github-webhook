@@ -1,0 +1,20 @@
+README for suid-wrap-0.01a
+--------------------------
+
+Installation instructions are detailed in ``INSTALL''.
+
+There is no user manual. You can read the manpages for
+information. If you have other questions, feel free to
+contact me.
+
+For more information, see the suid-wrap home page:
+
+http://isptools.sourceforge.net/
+
+The primary distribution points for suid-wrap is:
+
+ftp://download.sourceforge.net/pub/sourceforge/isptools/
+http://download.sourceforge.net/isptools/
+
+Currently there are no official mirror sites.
+
